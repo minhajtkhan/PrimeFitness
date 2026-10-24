@@ -4,7 +4,7 @@
 
 A modern, responsive multi-page website for **Prime Fitness Club**, a premium fitness and wellness center established in 1982. The site presents the club's training programs, facilities, memberships, trainers, and wellness services in a sleek, glass-style design.
 
-**Live Demo:** TODO: add your link here (e.g. GitHub Pages / Netlify / Vercel)
+**Live Demo:** https://minhajtkhan.github.io/PrimeFitness/
 
 ---
 
